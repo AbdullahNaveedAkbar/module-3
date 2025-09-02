@@ -1,0 +1,32 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: grey;
+}
+
+
+.navbar {
+  margin-bottom: 0;
+}
+.navbar-brand {
+  color: blue !important;
+}
+
+
+
+.section-box {
+  background-color: #dcdcdc;
+  padding: 20px;
+  margin-top: 20px;
+  min-height: 1000px; 
+}
+
+h2{
+
+    color : blue;
+}
+
+
+h3{
+    color: blue;
+}
